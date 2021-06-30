@@ -1,0 +1,9 @@
+Logistic Regression
+
+At this point, we know about the straight lines of regression, but what if the line is a curve?
+
+
+Logistic regression is a type of regression where one variable varies (Price of a particular thing, for example) and the other data is in 0s and 1s (Purchased or not).
+
+
+Today, we are going to find out the salary of people after which they are more prone to buy an expensive mobile phone. Let us first load the data.
